@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://twitter.com/yourusername" target="_blank">
+    <i class="fab fa-twitter"></i>
+</a>
 
 
 
