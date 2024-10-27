@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Follow Me on Twitter
 
-[![Twitter Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/yourusername)
+[![Twitter Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/laxmankumarIITB)
 
 
 
