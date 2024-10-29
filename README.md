@@ -1,6 +1,7 @@
 
 
-# Hi there 👋,  Laxman Kumar Here,  I'm Software Developer from India, Currently working in IT compnay in Mumbai.
+# Hi All 👋,  I'm Laxman Kumar Here,  I'm a Software Developer and i'm from India, Currently working in IT compnay in Mumbai.
+
 
 - 🔭  I am currently focused on improving as a full stack developer, I am constantly challenging myself and striving to expand my knowledge and skills
 
