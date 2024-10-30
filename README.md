@@ -1,6 +1,6 @@
 
 
-# Hi All,
+# Hello
 I'm a Software Developer from India, Currently working in a IT compnay in Mumbai.
 
 
