@@ -14,7 +14,7 @@ I'm a Software Developer from India, Currently working in a IT compnay in Mumbai
 [![𝕏(Twitter)](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/laxmankumarIITB)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/laxman-123)
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me 
 
  - I would love to hear from you! If you have any questions, inquiries, or just want to connect, feel free to reach out to me through direct messages (DMs) or by using one of the following methods:
 
