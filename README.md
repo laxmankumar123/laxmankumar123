@@ -21,8 +21,7 @@ I'm a Software Developer from India, Currently working in a IT compnay in Mumbai
 
 
 
-
-       [![X](https://img.icons8.com/color/48/000000/twitterx.png)](https://x.com/laxmankumarIITB)
+[![X](https://img.icons8.com/color/48/000000/twitterx.png)](https://x.com/laxmankumarIITB)
 
 
 
