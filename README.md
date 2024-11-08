@@ -4,7 +4,7 @@
 I'm a Software Developer from India, Currently working in a IT compnay in Mumbai.
 
 
-- 🔭  I am currently focused on improving as a full stack developer, I am constantly challenging myself and striving to expand my knowledge and skills
+- 🔭  I am currently focused on improving as a full stack developer, I am constantly challenging myself and striving to expand my knowledge and skills. 
 
 - ⚡ Fun fact: I believe that learning is a never-ending journey, and I am constantly seeking new challenges and knowledge. 
 
