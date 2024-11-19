@@ -1,7 +1,7 @@
 
 
 # Hello there ................👋
-I'm a Software Developer from India, Currently working in a IT compnay in Mumbai......!
+I'm a Software Developer from India, Currently working in a IT compnay in Mumbai India....!
 
 
 - 🔭  I am currently focused on improving as a full stack developer, I am constantly challenging myself and striving to expand my knowledge and skills. 
@@ -17,9 +17,6 @@ I'm a Software Developer from India, Currently working in a IT compnay in Mumbai
 ## 📫 How to Reach Me................✅
 
  - I would love to hear from you! If you have any questions, inquiries, or just want to connect, feel free to reach out to me through direct messages (DMs) or by using one of the following methods:
-
-
-
 
 [![X](https://img.icons8.com/color/48/000000/twitterx.png)](https://x.com/laxmankumarIITB)
 
